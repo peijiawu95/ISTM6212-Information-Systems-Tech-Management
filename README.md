@@ -16,3 +16,6 @@ Only the following data were used:
 
 
 # Methodology 
+1. Using Trifacta wrangling and cleaning all required datasets and integrated to one dataset, saved in S3 bucket. 
+2. Design Dimension and fact schema
+3. Create table and load data using Spark SQL
