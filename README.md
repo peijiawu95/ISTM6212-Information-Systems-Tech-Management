@@ -6,4 +6,8 @@ The data was sourced from Federal Election Commission which reveals how the cand
 https://www.fec.gov/data/browse-data/?tab=bulk-data
 
 Only the following data were used:
-* All Candidates 
+* All Candidates (https://www.fec.gov/campaign-finance-data/all-candidates-file-description/)
+* Candidate Master (https://www.fec.gov/campaign-finance-data/candidate-master-file-description/)
+* Committee master (https://www.fec.gov/campaign-finance-data/committee-master-file-description/)
+* Contributions from committees to candidates file description (https://www.fec.gov/campaign-finance-data/contributions-committees-candidates-file-description/)
+
