@@ -11,3 +11,8 @@ Only the following data were used:
 * Committee master (https://www.fec.gov/campaign-finance-data/committee-master-file-description/)
 * Contributions from committees to candidates file description (https://www.fec.gov/campaign-finance-data/contributions-committees-candidates-file-description/)
 
+# Problem of Interest
+
+
+
+# Methodology 
