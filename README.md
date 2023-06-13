@@ -12,8 +12,9 @@ Only the following data were used:
 * Contributions from committees to candidates file description (https://www.fec.gov/campaign-finance-data/contributions-committees-candidates-file-description/)
 
 # Problem of Interest
-
-
+* What are the names of the top 5 committees which contributed the single highest amount to Joe Biden and Donald Trump in 2020, and Hillary Clinton and Donald Trump in 2016?
+* What are the top 5 candidates from the Democratic party that received the highest amount of total contributions from committees in 2020 and 2016? What are the top 5 candidates from the Republican party that received the highest amount of total contributions from committees in 2020 and 2016?
+* Which state contributed the most to Joe Biden, and which state contributed the most to Donald Trump in 2020?
 
 # Methodology 
 1. Using Trifacta wrangling and cleaning all required datasets and integrated to one dataset, saved in S3 bucket. 
