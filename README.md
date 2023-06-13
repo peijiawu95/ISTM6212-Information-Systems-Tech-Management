@@ -17,7 +17,8 @@ Only the following data were used:
 * Which state contributed the most to Joe Biden, and which state contributed the most to Donald Trump in 2020?
 
 # Methodology 
-1. Using Trifacta wrangling and cleaning all required datasets and integrated to one dataset, saved in S3 bucket. 
+1. Using Trifacta wrangle and clean all required datasets and integrated them into one dataset, saved in S3 bucket. 
 2. Design Dimension and fact schema. 
 3. Create table and load data using Spark SQL.
-4. Using Spark SQL query the answers for above questions. 
+4. Using Spark SQL query the answers for the above questions.
+5. Output the answers and use Tableau to present them. 
